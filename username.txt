@@ -33,7 +33,7 @@ passw0rd
 postgres
 princess
 qwerty
-qwerty
+qwerty1
 root
 siadmin
 soadmin
